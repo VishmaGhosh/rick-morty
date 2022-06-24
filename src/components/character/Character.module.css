@@ -1,0 +1,6 @@
+.container{
+    background-color: rgb(161, 166, 172);
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
